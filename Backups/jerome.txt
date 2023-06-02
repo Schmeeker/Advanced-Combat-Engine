@@ -1,0 +1,56 @@
+{
+  "name": "Jerome",
+  "isAlive": true,
+  "backstory": "Jerome is a practice dummy with dreams of success... Not really. He\u0027s a magic practice dummy that is helping Billy train, and helping Bennett develop code! What a nice guy! Just don\u0027t tick him off... You won\u0027t like him when he\u0027s ticked off.",
+  "maxHP": 47,
+  "currentHP": 47,
+  "strength": 4,
+  "agility": 0,
+  "stamina": 4,
+  "luck": 0,
+  "healing": 0,
+  "AC": 9,
+  "equipmentWeapon": {
+    "name": "Rubber Gloves",
+    "description": "Gloves! They feel nice when you open and close your hands. Oh, they\u0027re also reinforced with some brass plating, hidden inside. They\u0027re pretty nice.",
+    "diceMultiplier": 2,
+    "damageDice": 6,
+    "attackBonus": 0,
+    "damageBonus": 0
+  },
+  "equipmentArmour": {
+    "defenceValue": 9,
+    "name": "Dummy Padding",
+    "description": "Magical Cloth padding that, while soft and squishy, can repel most physical attacks. It\u0027s also fire-resistant!"
+  },
+  "inventory": [
+    {
+      "turns": 0,
+      "changeMaxHP": 0,
+      "changeStrength": 0,
+      "changeStamina": 0,
+      "changeAgility": 2,
+      "changeLuck": 0,
+      "changeHealing": 0,
+      "type": "X",
+      "name": "Adrenaline Shot",
+      "description": "GRABBIN\u0027 A SHOT! [Whilst shaking head] \"Wububub.\"",
+      "effectDescription": "haha shot go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+      "uses": 5,
+      "potency": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "numberOfItems": 1,
+  "tanking": false,
+  "boosted": false,
+  "turnsBoosted": 0
+}

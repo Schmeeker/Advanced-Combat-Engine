@@ -1,0 +1,49 @@
+{
+  "name": "Billy",
+  "isAlive": true,
+  "backstory": "Billy is a novice swordsman, unable to find work. That\u0027s why he took up adventuring!",
+  "maxHP": 10,
+  "currentHP": 10,
+  "strength": 3,
+  "agility": 2,
+  "stamina": 2,
+  "luck": -4,
+  "observation": 1,
+  "AC": 0,
+  "equipmentWeapon": {
+    "name": "Practice Broadsword",
+    "description": "A sword used for beginners, to learn sword techniques without killing each other. As such, it is not suitable for slaying things. Oh wait...",
+    "diceMultiplier": 1,
+    "damageDice": 4,
+    "attackBonus": 0,
+    "damageBonus": 0
+  },
+  "equipmentArmour": {
+    "defenceValue": 10,
+    "name": "Leather Armour",
+    "description": "A simple set of armour made from Leather, with boiled strips of leather sewn or adhered to portions to create flexible yet protective armour. Many adventurers begin with this armour as it is cheap and provides more defence than being naked."
+  },
+  "inventory": [
+    {
+      "type": "H",
+      "name": "Heal-All - Baja Blast",
+      "description": "It says: \"Get up good as new with all-new Heal-All! Now with 300% more eye of newt! Ingedients: Natural Berry Juice, Newt Eye...\" Best not know what else is in here.",
+      "effectDescription": "Heals 1d4 + luck for healing! Isn\u0027t that convenient?",
+      "uses": 1,
+      "potency": 4
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "numberOfItems": 1,
+  "tanking": false,
+  "boosted": false,
+  "turnsBoosted": 0
+}

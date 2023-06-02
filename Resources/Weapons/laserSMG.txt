@@ -1,0 +1,8 @@
+{
+    "name": "Laser-Sight Silenced SMG",
+    "description": "A Laser Sight can aid your aim and decrease spread considerably, so your best bet is to attach one to an AK-47 or Silenced Submachine Gun. Powerful but highly inaccurate weapons that fire fast can become devastating when paired with Laser Sights.",
+    "diceMultiplier": 2,
+    "damageDice": 4,
+    "attackBonus": 5,
+    "damageBonus": 0
+  }

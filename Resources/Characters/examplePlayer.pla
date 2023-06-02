@@ -1,0 +1,42 @@
+{
+  "name": "John Doe",
+  "isAlive": true,
+  "backstory": "An example Character",
+  "maxHP": 5,
+  "currentHP": 1,
+  "strength": 1,
+  "agility": 1,
+  "stamina": 1,
+  "luck": 1,
+  "healing": 1,
+  "AC": 0,
+  "equipmentWeapon": {
+    "name": "Example Weapon",
+    "description": "This is an Example Weapon",
+    "diceMultiplier": 1,
+    "damageDice": 6,
+    "attackBonus": 0,
+    "damageBonus": 0
+  },
+  "equipmentArmour": {
+    "defenceValue": 10,
+    "name": "Example Armour",
+    "description": "An Example Armour"
+  },
+  "inventory": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "numberOfItems": 0,
+  "tanking": false,
+  "boosted": false,
+  "turnsBoosted": 0
+}

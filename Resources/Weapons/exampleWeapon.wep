@@ -1,0 +1,8 @@
+{
+  "name": "Example Weapon",
+  "description": "This is an Example Weapon",
+  "diceMultiplier": 1,
+  "damageDice": 6,
+  "attackBonus": 0,
+  "damageBonus": 0
+}

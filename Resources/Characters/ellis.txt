@@ -1,0 +1,57 @@
+{
+  "name": "Ellis",
+  "isAlive": true,
+  "backstory": "A junior mechanic by trade in the city of Savannah, Ellis is a goofy, beer-loving country guy with an unsophisticated and sometimes naive world view.",
+  "maxHP": 25,
+  "currentHP": 25,
+  "strength": 2,
+  "agility": 2,
+  "stamina": 2,
+  "luck": 3,
+  "observation": 1,
+  "AC": 0,
+  "equipmentWeapon": {
+    "name": "Silenced SMG",
+    "description": "The Silenced Submachine Gun has a high rate of fire and greater stopping power than the normal Submachine Gun. It is deadly in close quarters and its accuracy at medium ranges is impressive--if the user is prepared to aim carefully and squeeze off short bursts. Perhaps some sort of space-age attachment would improve its accuracy",
+    "diceMultiplier": 2,
+    "damageDice": 4,
+    "attackBonus": 0,
+    "damageBonus": 3
+  },
+  "equipmentArmour": {
+    "defenceValue": 10,
+    "name": "Ellis' T-Shirt",
+    "description": "A yellow t-shirt. The logo is a \"Bullshifters\" logo. Not much protection, but it's Ellis' favourite shirt!"
+  },
+  "inventory": [
+    {
+      "turns": 5,
+      "changeMaxHP": 0,
+      "changeStrength": 1,
+      "changeStamina": 1,
+      "changeAgility": 2,
+      "changeLuck": 0,
+      "changeObservation": 0,
+      "changeAC": 0,
+      "type": "X",
+      "name": "Adrenaline Shot",
+      "description": "GRABBIN\u0027 A SHOT! [Whilst shaking head] \"Wububub.\"",
+      "effectDescription": "haha shot go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+      "uses": 1,
+      "potency": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "numberOfItems": 1,
+  "tanking": false,
+  "boosted": false,
+  "turnsBoosted": 0
+}

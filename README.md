@@ -18,19 +18,20 @@ So, to begin, Characters, Armours, Weapons, and Consumable Items are stored as .
 It's pretty easy to figure out which type goes where. First, let's go over Armours, which are the simplest.
 
 Example:
-
+```json
 {
   "defenceValue": 10,
   "name": "Example Armour",
   "description": "An Example Armour"
 }
+```
 
 It's that easy. Paste that bad boy into a text editor, and save it in the Resources\Armours\ folder and BOOM! You've got yourself your first loot drop.
 
 Yaaaaaaaaaaaay!
 
 Weapons are very similar:
-
+```json
 {
   "name": "Example Weapon",
   "description": "This is an Example Weapon",
@@ -39,6 +40,7 @@ Weapons are very similar:
   "attackBonus": 0,
   "damageBonus": 0
 }
+```
 
 The dice multiplier and damage dice need some explanation.
 
@@ -52,6 +54,7 @@ It's pretty simple.
 Characters are a lot more complicated.
 (Hint: If you don't want to make super detailed characters, just use the built-in wizard to make one and then edit it if you want)
 
+```json
 {
   "name": "John Doe",
   "isAlive": true,
@@ -94,6 +97,7 @@ Characters are a lot more complicated.
   "boosted": false,
   "turnsBoosted": 0
 }
+```
 
 As you can see, Characters are a bit more complex. But, if you'll notice, we can see our friends Example Armour and Example Weapon in there!
 

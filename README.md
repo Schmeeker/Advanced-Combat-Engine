@@ -2,7 +2,7 @@ Hello! Welcome to the
 Advanced
 Combat
 Engine
-	 _______  _______  _______ 
+```	 _______  _______  _______ 
 (  ___  )(  ____ \(  ____ \
 | (   ) || (    \/| (    \/
 | (___) || |      | (__    
@@ -10,7 +10,7 @@ Engine
 | (   ) || |      | (      
 | )   ( || (____/\| (____/\
 |/     \|(_______/(_______/
- 
+``` 
 This will be your guide through making your own custom characters and items!
 
 So, to begin, Characters, Armours, Weapons, and Consumable Items are stored as .txt files in the Resources folder.
